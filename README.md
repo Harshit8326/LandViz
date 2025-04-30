@@ -28,38 +28,34 @@ This repository includes:
    ```bash
    git clone https://github.com/Harshit8326/LandViz.git
    cd LandViz
-Install PHP dependencies:
+2. **Install PHP dependencies:
 
+ composer install
+ 
+3. **Install Node.js dependencies and compile assets:
+   ```bash
+    npm install
+    npm run dev
 
-composer install
-Install Node.js dependencies and compile assets:
+4. **Set up environment variables:
+    ```bash
+    Copy the .env.example file to .env:
+    cp .env.example .env
 
-
-npm install
-npm run dev
-Set up environment variables:
-
-Copy the .env.example file to .env:
-
-
-cp .env.example .env
 Update database and other environment configuration in .env.
 
-Generate application key:
-
-
-php artisan key:generate
-Run database migrations (if applicable):
-
-
-php artisan migrate
-Start the Laravel development server:
-
-
-php artisan serve
+5. **Generate application key:
+    ```bash
+    php artisan key:generate
+6. **Run database migrations (if applicable):
+    ```bash
+    php artisan migrate
+7. **Start the Laravel development server:
+    ```bash
+    php artisan serve
 The application will typically be available at http://localhost:8000
 
-📊 Features
+📊 **Features
 Visual analysis of:
 
 Landholding patterns
@@ -76,10 +72,10 @@ Responsive UI built with Blade templates and Bootstrap/CSS
 
 Modular Laravel MVC structure
 
-📷 Screenshots
+📷 **Screenshots
 
 
-🙋‍♂️ Author
-Created by Harshit Sharma
-📧 Email: ihspvt@gmail.com
-🔗 GitHub | LinkedIn
+**🙋‍♂️ Author
+**Created by Harshit Sharma
+**📧 Email: ihspvt@gmail.com
+**🔗 GitHub | LinkedIn
