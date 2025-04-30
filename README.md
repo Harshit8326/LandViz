@@ -73,7 +73,6 @@ Responsive UI built with Blade templates and Bootstrap/CSS
 Modular Laravel MVC structure
 
 📷 **Screenshots**
-![Screenshot 2025-04-30 102320](https://github.com/user-attachments/assets/77629f0e-4ba9-4eca-b71f-e22541292aa8)
 
 ![Screenshot 2025-04-30 104703](https://github.com/user-attachments/assets/ef143506-958b-4775-9c94-66337ab9d746)
 
@@ -100,10 +99,6 @@ Modular Laravel MVC structure
 ![Screenshot 2025-04-30 104925](https://github.com/user-attachments/assets/99559e7b-1993-4a04-bcf8-71fecfa727b3)
 
 ![Screenshot 2025-04-30 104937](https://github.com/user-attachments/assets/9b9c2062-1d96-42e6-a26b-3540eae7c5db)
-
-![Screenshot 2025-04-30 104937](https://github.com/user-attachments/assets/7271aaef-622e-4702-82ee-68120a0471bf)
-
-![Screenshot 2025-04-30 104937 - Copy](https://github.com/user-attachments/assets/9a4514df-1992-4bb4-829a-fdc475ece28e)
 
 ![Screenshot 2025-04-30 104949](https://github.com/user-attachments/assets/e3b74ece-2602-4236-b603-42690c199f03)
 
